@@ -1,4 +1,5 @@
 {
     "editor.fontSize": 22,
-    "prettier.printWidth": 50
+    "prettier.printWidth": 50,
+    "editor.fontFamily": ""
 }
